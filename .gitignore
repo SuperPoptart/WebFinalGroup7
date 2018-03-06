@@ -4,8 +4,3 @@
 /bower_components/
 /node_modules/
 /index.html
-/.gitignore
-/Pictures/
-/libraries/
-/src/
-/src/index.html
